@@ -9,13 +9,19 @@ if (!search) {
 }
 
 if (!term) {
-  term = "drake";
+  term = "Drake ";
 }
 
 if (search === "concert-this") {
   console.log("Searching for artist");
-  liri.findArtist(term)}
+  liri.findArtist(term);
+}
+// else if(search === "movie-this") {
+//   console.log("searching for Movie");
+//   liri.findMovie(term);
+// }
+// else if(search === "spotify-this") {
 
-  // if (search === "movie-this") {
-  //   console.log("Searching for movie");
-  //   liri.findMovie(term)}
+// }
+
+
