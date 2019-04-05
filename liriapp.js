@@ -9,7 +9,7 @@ if (!search) {
 }
 
 if (!term) {
-  term = "Drake ";
+  term = "Drake";
 }
 
 if (search === "concert-this") {

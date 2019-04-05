@@ -124,3 +124,98 @@ Location undefined
 Date: undefined
 ------------------------------------------------------------
 
+Venue: End of the Road World Tour - Raleigh, NC
+
+Location undefined
+
+Date: 2019-04-06T19:30:00
+------------------------------------------------------------
+
+Venue: End of the Road World Tour - Raleigh, NC
+
+Location United States
+
+Date: 2019-04-06T19:30:00
+------------------------------------------------------------
+
+Venue: End of the Road World Tour - Raleigh, NC
+
+Location United States
+
+City Raleigh
+
+Date: 2019-04-06T19:30:00
+------------------------------------------------------------
+
+Venue: End of the Road World Tour - Raleigh, NC
+
+Location [object Object]
+
+City Raleigh
+
+Date: 2019-04-06T19:30:00
+------------------------------------------------------------
+
+Venue: End of the Road World Tour - Raleigh, NC
+
+Location United States
+
+City Raleigh
+
+Date: 2019-04-06T19:30:00
+------------------------------------------------------------
+
+Venue: End of the Road World Tour - Raleigh, NC
+
+Location United States
+
+City Raleigh
+
+Date: 2019-04-06T19:30:00
+------------------------------------------------------------
+
+Venue: End of the Road World Tour - Raleigh, NC
+
+Location United States
+
+City Raleigh
+
+[36mDate: [39m2019-04-06T19:30:00
+------------------------------------------------------------
+
+Venue: End of the Road World Tour - Raleigh, NC
+
+Location United States
+
+City Raleigh
+
+[36mDate: [39m2019-04-06T19:30:00
+------------------------------------------------------------
+
+Venue: End of the Road World Tour - Raleigh, NC
+
+Location United States
+
+City Raleigh
+
+[36mDate: [39m[31m2019-04-06T19:30:00[39m
+------------------------------------------------------------
+
+[36mVenue: [39m[31mEnd of the Road World Tour - Raleigh, NC[39m
+
+[36mLocation [39m[31mUnited States[39m
+
+[36mCity [39m[31mRaleigh[39m
+
+[36mDate: [39m[31m2019-04-06T19:30:00[39m
+------------------------------------------------------------
+
+[36mVenue: [39m[31mEnd of the Road World Tour - Raleigh, NC[39m
+
+[36mLocation: [39m[31mUnited States[39m
+
+[36mCity: [39m[31mRaleigh[39m
+
+[36mDate: [39m[31m2019-04-06T19:30:00[39m
+------------------------------------------------------------
+
