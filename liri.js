@@ -32,22 +32,21 @@ var Liri = function () {
     });
   };
 
-//   this.findArtist = function (artist) {
-//     var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
-//     axios.get(URL).then(function (response) {
-//       var jsonData = response.data.artist;
-//       console.log(jsonData)
-//       // var artistData = [
-//       //   "Venue: " + jsonData.venue.name,
-//       //   "Location " + jsonData.country.city,
-//       //   "Date: " + jsonData.datetime,
-//       // ].join("\n\n");
-//       // fs.appendFile("log.txt", artistData + divider, function (err) {
-//       //   if (err) throw err;
-//       //   console.log(artistData);
-//       // });
+  this.findMovie = function (movie) {
+    var URL = "https://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
+    axios.get(URL).then(function (response) {
+      var jsonData = response.data;
+      var movieData = [
+        chalk.cyan("Movie: ") + chalk.red(jsonData.Title),
+        chalk.cyan("Year of Released ") + chalk.red(jsonData.Released),
+        chalk.cyan("Rating: ") + chalk.red(jsonData.Rated),
+      ].join("\n\n");
+      fs.appendFile("log.txt", movieData + divider, function (err) {
+        if (err) throw err;
+        console.log(movieData);
+      });
 
-//     });
-//   };
+    });
+  };
 };
   module.exports = Liri;
